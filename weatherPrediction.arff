@@ -1,0 +1,42 @@
+@relation weather
+
+@attribute date numeric
+@attribute indexOfPollution numeric
+@attribute PM10 numeric
+@attribute airDensity {high,medium,low}
+@attribute healthy {no,yes}
+@attribute weather {sunny,cloudy}
+@attribute result 
+
+@data
+27,303,281,high,no
+28,323,286,high,no
+29,196,149,high,no
+30,77,27,low,yes
+1,165,91,medium,no
+2,200,166,high,no
+3,160,81,medium,no
+4,77,27,low,yes
+5,83,30,low,yes
+6,60,18,low,yes
+7,79,31,low,yes
+8,94,35,low,yes
+9,98,37,low,yes
+10,158,77,medium,no
+11,174,112,high,no
+12,155,71,medium,no
+13,124,50,medium,no
+14,124,50,medium,yes
+15,164,90,high,no
+16,247,219,high,no
+17,296,273,high,no
+18,258,231,high,no
+19,211,179,high,no
+20,218,187,high,no
+21,317,297,high,no
+22,336,308,high,no
+23,233,190,high,no
+24,150,61,medium,yes
+25,81,29,low,yes
+26,81,29,low,yes
+27,74,33,low,yes

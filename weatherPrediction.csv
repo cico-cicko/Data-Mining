@@ -1,0 +1,32 @@
+date;indexOfPollution;PM10;airDensity;weather;healthy
+27;303;281;high;sunny ;no
+28;323;286;high;cloudy;no
+29;196;149;high;cloudy;no
+30;77;27;low;sunny ;yes
+1;165;91;medium;sunny ;no
+2;200;166;high;sunny ;no
+3;160;81;medium;cloudy;no
+4;77;27;low;cloudy;yes
+5;83;30;low;cloudy;yes
+6;60;18;low;sunny ;yes
+7;79;31;low;sunny ;yes
+8;94;35;low;cloudy;yes
+9;98;37;low;cloudy;yes
+10;158;77;medium;cloudy;no
+11;174;112;high;cloudy;no
+12;155;71;medium;cloudy;no
+13;124;50;medium;cloudy;no
+14;124;50;medium;sunny ;yes
+15;164;90;high;sunny ;no
+16;247;219;high;cloudy;no
+17;296;273;high;cloudy;no
+18;258;231;high;sunny ;no
+19;211;179;high;cloudy;no
+20;218;187;high;cloudy;no
+21;317;297;high;cloudy;no
+22;336;308;high;sunny ;no
+23;233;190;high;sunny ;no
+24;150;61;medium;cloudy;yes
+25;81;29;low;sunny ;yes
+26;81;29;low;sunny ;yes
+27;74;33;low;cloudy;yes
